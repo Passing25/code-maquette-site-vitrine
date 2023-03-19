@@ -1,0 +1,251 @@
+.sectiona
+{
+	background-color: rgb(182, 182, 182);
+}
+.ha1
+{
+	color: white;
+	font-size: 220px;
+	padding-left: 80px;
+}
+.pa
+{
+	color: blue;
+	width: 100%;
+	padding-left: 80px;
+	font-size: 50px;
+	font-family: Times New Roman;
+	margin-top: -100px;
+}
+.pb
+{
+	text-align: justify;
+	justify-self:center;
+	width: 850px;
+	font-size: 25px;
+    padding-left: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mission
+{
+	color: blue;
+	font-size: 55px;
+	padding-left: 200px;
+}
+.building
+{
+	padding-right: 100px;
+}
+.pc
+{
+	text-align: justify;
+	font-size:24px;
+	justify-content:start;
+    width: 50%;
+    padding-left: 200px;
+    font-family: Times New Roman;
+}
+.pyramide
+{
+	padding-left: 100px;
+}
+.buts
+{
+	text-align: right;
+	color: blue;
+	font-size: 55px;
+	padding-right: 550px;
+}
+.pd
+{
+	text-align: justify;
+	font-size: 25px;
+	padding-left: 385px;
+    width: 50%;
+    font-family: Times New Roman;
+}
+.fontgauche
+{
+	background-color: rgb(182, 182, 182);
+	width: 700%;
+	
+}
+.room
+{
+	padding-left: 100px;
+}
+.pe
+{
+	text-align: justify;
+	font-size: 25px;
+	padding-left: 100px;
+    width: 55%;
+    font-family: Times New Roman;
+}
+.fontdroit
+{
+	font-size: 50px;
+	padding-left: 100px;
+	margin-bottom: 50px;
+}
+.misso
+{
+	color: blue;
+	font-size: 80px;
+    padding-left: 125px;
+}
+.bouton
+{
+	border: 0px blue solid;
+	background-color: blue;
+	text-align: center;
+	color: white;
+	padding-left: 100px;
+	padding-right: 100px;
+
+}
+.pf
+{
+	text-align: justify;
+	font-size: 30px;
+	padding-left: 50px;
+    width: 80%;
+    font-family: Times New Roman;
+}
+.imgg
+{
+	padding-left: 425px;
+}
+.po
+{
+	text-align: justify;
+	font-size: 25px;
+	padding-left: 125px;
+    width: 80%;
+    font-family: Times New Roman;
+}
+.sectiond
+{
+	background-color: rgb(182, 182, 182);
+}
+.pg
+{
+	font-size: 70px;
+	color: blue;
+	padding-left: 150px;
+	width: 90%;
+}
+.autor
+{
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 80px;
+}
+.team
+{
+	text-align: center;
+	color: blue;
+	font-size: 100px;
+	font-family: arial;
+}
+.imgprf2
+{
+	padding-left: 400px;
+}
+.prof1, #log1
+{
+	padding-left: 150px;
+}
+.prof2, #log2
+{
+    padding-left: 500px;
+}
+.nom
+{
+	font-size: 40px;
+}
+.sectione
+{
+	background-color: rgb(182, 182, 182);
+}
+.hac
+{
+	color: white;
+	font-size: 220px;
+	padding-left: 80px;
+}
+.linea
+{
+	padding-left: 100px;
+	font-size: 30px;
+	font-family: georgian;
+	color: rgb(62, 62, 62);
+}
+.lineb
+{
+	padding-left: 100px;
+	font-size: 40px;
+	color: blue;
+}
+.pi
+{
+	text-align: center;
+	text-align: justify;
+	font-size: 25px;
+    width: 20%;
+    padding-left: 100px;
+    font-family: Times New Roman;
+}
+.pm
+{
+	text-align: center;
+	text-align: justify;
+	font-size: 25px;
+    width: 20%;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: Times New Roman;
+}
+.bouton2
+{
+	border: 0px blue solid;
+	background-color: blue;
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.secu
+{
+	color: blue;
+	font-size: 90px;
+    padding-left: 100px;
+}
+.imgprf3
+{
+	border: 0px blue; solid;
+	background-color: blue;
+}
+.sectionf
+{
+	border: 0px black solid;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.degrade-horizontal {
+  background:blue;
+  font-size: 100%;
+  margin-top: -350px;
+}
+
+div 
+{
+  width: 200px;
+  height: 250px;
+  padding-bottom: 100px;
+  position: top;
+}
+
