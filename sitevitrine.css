@@ -35,6 +35,7 @@
 .building
 {
 	padding-right: 100px;
+	position: relative;right: 125px;
 }
 .pc
 {
@@ -48,6 +49,7 @@
 .pyramide
 {
 	padding-left: 100px;
+	position: relative; left: 50PX;
 }
 .buts
 {
@@ -64,11 +66,11 @@
     width: 50%;
     font-family: Times New Roman;
 }
-.fontgauche
-{
+
+.background1{
 	background-color: rgb(182, 182, 182);
-	width: 700%;
-	
+	width:80%;
+	height: 700px;
 }
 .room
 {
@@ -84,9 +86,11 @@
 }
 .fontdroit
 {
-	font-size: 50px;
+	font-size: 25px;
 	padding-left: 100px;
-	margin-bottom: 50px;
+	margin-bottom: -50px;
+	width: 700px;
+	position: relative;top: 150px;right: 30px;
 }
 .misso
 {
@@ -155,6 +159,8 @@
 .prof1, #log1
 {
 	padding-left: 150px;
+	position: relative;right: -150px; 
+ position: relative;
 }
 .prof2, #log2
 {
@@ -166,42 +172,43 @@
 }
 .sectione
 {
-	background-color: rgb(182, 182, 182);
+	background-color:#d9d9d9;
 }
 .hac
 {
 	color: white;
 	font-size: 220px;
-	padding-left: 80px;
-}
-.linea
-{
 	padding-left: 100px;
-	font-size: 30px;
+	text-align: center;
+}
+.lina
+{
+	font-size: 40px;
 	font-family: georgian;
 	color: rgb(62, 62, 62);
+	position: relative; bottom: 4cm; left: 25%;
 }
-.lineb
+.linb
 {
-	padding-left: 100px;
 	font-size: 40px;
 	color: blue;
+	position: relative; bottom: 4cm; left: 25%;
+}
+.sectione hr{
+	position: relative; bottom: 4cm; height: 2px; background-color: white;
 }
 .pi
 {
-	text-align: center;
 	text-align: justify;
 	font-size: 25px;
-    width: 20%;
-    padding-left: 100px;
+    width: -75%;
     font-family: Times New Roman;
 }
 .pm
 {
-	text-align: center;
 	text-align: justify;
 	font-size: 25px;
-    width: 20%;
+    width: -75%;
     padding-left: 40px;
     padding-right: 40px;
     font-family: Times New Roman;
@@ -217,12 +224,15 @@
 .secu
 {
 	color: blue;
-	font-size: 90px;
-    padding-left: 100px;
+	font-size: 75px;
+	position: relative; top: -300px;
+    padding-right: 50px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 .imgprf3
 {
-	border: 0px blue; solid;
+	border: 0px blue solid;
 	background-color: blue;
 }
 .sectionf
@@ -238,7 +248,7 @@
 .degrade-horizontal {
   background:blue;
   font-size: 100%;
-  margin-top: -350px;
+  position: relative;top: -175px;
 }
 
 div 
@@ -248,4 +258,11 @@ div
   padding-bottom: 100px;
   position: top;
 }
+.profile1{
+	position: relative; right: -150px;
+}
+.profile2{
+	position: relative; left: 400px;
+}
+
 
